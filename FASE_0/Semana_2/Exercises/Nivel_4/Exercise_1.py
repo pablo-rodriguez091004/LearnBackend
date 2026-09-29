@@ -1,0 +1,1 @@
+#Conversor de temperatura: pide grados Celsius y muestra Fahrenheit (F = C * 9/5 + 32) y Kelvin (K = C + 273.15).

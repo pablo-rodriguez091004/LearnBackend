@@ -1,0 +1,1 @@
+#Con la palabra "programacion": muestra su longitud, la primera letra, la última, todo en mayúsculas y las tres primeras letras.

@@ -1,0 +1,1 @@
+#Pide una frase y muestra cuántos caracteres tiene, la frase en mayúsculas y la frase con los espacios de los lados quitados (strip()).

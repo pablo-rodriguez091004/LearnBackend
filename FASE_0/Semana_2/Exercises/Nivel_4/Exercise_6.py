@@ -1,0 +1,1 @@
+#Dígitos: pide un número de 3 cifras y muestra cada dígito por separado. Pista: % y // con 10 y 100. Ejemplo: 472 da 4, 7, 2.

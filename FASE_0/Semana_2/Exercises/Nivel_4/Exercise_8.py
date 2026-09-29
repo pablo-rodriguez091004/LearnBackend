@@ -1,0 +1,1 @@
+#Propina: pide el valor de una cuenta y un porcentaje de propina, y muestra la propina y el total.

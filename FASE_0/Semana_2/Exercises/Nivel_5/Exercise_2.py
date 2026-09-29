@@ -1,0 +1,1 @@
+#Escribe int("hola"). ¿Qué error es y por qué?

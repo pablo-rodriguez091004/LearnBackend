@@ -1,0 +1,1 @@
+#Área y perímetro: pide base y altura de un rectángulo y muestra área y perímetro. Luego haz lo mismo con un círculo a partir del radio (usa 3.14159).

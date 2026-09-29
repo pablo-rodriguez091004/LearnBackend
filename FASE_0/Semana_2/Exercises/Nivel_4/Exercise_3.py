@@ -1,0 +1,1 @@
+#Segundos a horas: pide un total de segundos y muestra cuántas horas, minutos y segundos son. Pista: usa // y %.

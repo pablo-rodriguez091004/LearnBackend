@@ -1,0 +1,1 @@
+#Promedio: pide tres notas y muestra el promedio con 1 decimal.

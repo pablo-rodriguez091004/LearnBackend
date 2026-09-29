@@ -1,0 +1,1 @@
+#Guarda "7" en una variable, conviértela a int, súmale 3 y vuelve a convertir el resultado a str para pegarle " puntos" con +.
