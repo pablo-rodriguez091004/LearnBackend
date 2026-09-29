@@ -1,2 +1,4 @@
 FASE_0/Semana_1/Semana_1/
 __pycache__/
+.pytest_cache/
+.pytest_cache/
